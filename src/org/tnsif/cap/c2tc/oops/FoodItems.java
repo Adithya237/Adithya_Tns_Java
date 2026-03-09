@@ -6,7 +6,7 @@ public class FoodItems {
 	String name;
 	double price;
 	String category;
-	
+	//sample line
 	//method or member func or func
 	void display()
 	{
@@ -50,5 +50,6 @@ public static void main(String[] args) {
 	}
 
 }
+
 
 	
