@@ -11,8 +11,8 @@ public class InstanceOfOperator {
         
         Dog d = new Dog();
 
-        System.out.println(d instanceof Dog);     // true
-        System.out.println(d instanceof Animal);  // true
-        System.out.println(d instanceof Object);  // true
+        System.out.println(d instanceof Dog);     
+        System.out.println(d instanceof Animal);  
+        System.out.println(d instanceof Object);  
     }
 }
