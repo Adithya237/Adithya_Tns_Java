@@ -18,7 +18,7 @@ class Bike extends Vehicle {
 public class MethodOverriding {
     public static void main(String[] args) {
 
-        Vehicle v = new Bike();   // runtime polymorphism
+        Vehicle v = new Bike();   
         v.run();
     }
 }
